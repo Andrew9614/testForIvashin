@@ -1,0 +1,17 @@
+.noteContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 1px 5px 10px #0000002b;
+  width: 100%;
+  max-width: 150px;
+  margin: 20px;
+	justify-content: space-between;
+	button{
+		width: fit-content;
+	}
+}
+.hidden {
+  display: none;
+}
